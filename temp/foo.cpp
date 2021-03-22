@@ -2,7 +2,11 @@
 using namespace std;
 int sum1(int a, int b)
 {
+<<<<<<< HEAD
 	return a + b*3;
+=======
+	return a + b*2;
+>>>>>>> dev
 }
 int main()
 {
