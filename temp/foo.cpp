@@ -2,7 +2,11 @@
 using namespace std;
 int sum1(int a, int b)
 {
-	return a + b*2;
+	return a + b;
+}
+void print1()
+{
+	cout << "gaofeizhenhaokan" << endl;
 }
 int main()
 {
